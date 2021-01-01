@@ -18,6 +18,11 @@ List of C2 JARM including Cobalt Strike
 https://github.com/cedowens/C2-JARM
 
 
+Cobalt Strike Yara
+https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike.yar
+https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike_evasive.yar
+
+
 Detection Cobalt Strike stomp
 https://github.com/slaeryan/DetectCobaltStomp
 
@@ -49,6 +54,9 @@ https://redhead0ntherun.medium.com/detecting-cobalt-strike-by-fingerprinting-ima
 The Anatomy of an APT Attack and CobaltStrike Beacon’s Encoded Configuration
 https://labs.sentinelone.com/the-anatomy-of-an-apt-attack-and-cobaltstrike-beacons-encoded-configuration/
 
+CobaltStrike - beacon.dll : Your No Ordinary MZ Header
+https://tccontre.blogspot.com/2019/11/cobaltstrike-beacondll-your-not.html
+
 
 Detecting Cobalt Strike beacons in NetFlow data
 https://delaat.net/rp/2019-2020/p29/report.pdf
@@ -61,6 +69,40 @@ Easily Identify Malicious Servers on the Internet with JARM
 https://engineering.salesforce.com/easily-identify-malicious-servers-on-the-internet-with-jarm-e095edac525a
 https://github.com/salesforce/jarm
 
+Cobalt Strike Beacon Analysis
+https://isc.sans.edu/forums/diary/Quick+Tip+Cobalt+Strike+Beacon+Analysis/26818/
+
+Hancitor infection with Pony, Evil Pony, Ursnif, and Cobalt Strike
+https://isc.sans.edu/forums/diary/Hancitor+infection+with+Pony+Evil+Pony+Ursnif+and+Cobalt+Strike/25532/
+
+
+
+
+
+
+
+Attackers Exploiting WebLogic Servers via CVE-2020-14882 to install Cobalt Strike
+https://isc.sans.edu/forums/diary/Attackers+Exploiting+WebLogic+Servers+via+CVE202014882+to+install+Cobalt+Strike/26752/
+
+
+Hiding in the Cloud: Cobalt Strike Beacon C2 using Amazon APIs
+https://rhinosecuritylabs.com/aws/hiding-cloudcobalt-strike-beacon-c2-using-amazon-apis/
+
+
+Identifying Cobalt Strike team servers in the wild
+https://blog.fox-it.com/2019/02/26/identifying-cobalt-strike-team-servers-in-the-wild/
+
+
+Multi-stage APT attack drops Cobalt Strike using Malleable C2 feature
+https://blog.malwarebytes.com/threat-analysis/2020/06/multi-stage-apt-attack-drops-cobalt-strike-using-malleable-c2-feature/
+
+
+Operation Cobalt Kitty
+http://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf
+
+
+Detecting and Advancing In-Memory .NET Tradecraft
+https://www.mdsec.co.uk/2020/06/detecting-and-advancing-in-memory-net-tradecraft/
 
 
 
@@ -70,6 +112,11 @@ https://github.com/salesforce/jarm
 
 
 
+Malleable Memory Indicators with Cobalt Strike's Beacon Payload
+https://www.youtube.com/watch?v=93GyP-mEUAw&feature=emb_title
+
+
+STAR Webcast: Spooky RYUKy: The Return of UNC1878
 https://www.youtube.com/watch?v=BhjQ6zsCVSc
 
 
