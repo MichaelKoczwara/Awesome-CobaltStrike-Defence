@@ -40,6 +40,10 @@ https://github.com/Te-k/cobaltstrike
 List of C2 JARM including Cobalt Strike</br>
 https://github.com/cedowens/C2-JARM
 
+<h2>Hunting & Detection Research</br></h2>
+Detection Cobalt Strike stomp</br>
+https://github.com/slaeryan/DetectCobaltStomp
+
 <h2>Yara rules</br></h2>
 Cobalt Strike Yara</br>
 https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike.yar</br>
@@ -56,9 +60,7 @@ https://docs.google.com/spreadsheets/d/1bYvBh6NkNYGstfQWnT5n7cSxdhjSn1mduX8cziWS
 
 
 
-<h2>Hunting & Detection Research</br></h2>
-Detection Cobalt Strike stomp</br>
-https://github.com/slaeryan/DetectCobaltStomp
+
 
 Analysing Cobalt Strike for fun and profit</br>
 https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-profit/
