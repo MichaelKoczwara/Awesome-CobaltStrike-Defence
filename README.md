@@ -170,6 +170,11 @@ https://www.youtube.com/watch?v=BhjQ6zsCVSc
 Excel 4.0 Macros Analysis - Cobalt Strike Shellcode Injection</br>
 https://www.youtube.com/watch?v=XnN_UWfHlNM
 
+Profiling And Detecting All Things SSL With JA3
+https://www.youtube.com/watch?v=oprPu7UIEuk
+
+
+
 
 
 
