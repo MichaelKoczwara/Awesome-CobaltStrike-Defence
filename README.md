@@ -1,4 +1,4 @@
-# Awseome-CobaltStrike-Defence
+# Awesome-CobaltStrike-Defence
 <h1>Defences against Cobalt Strike</h1>
 
 
