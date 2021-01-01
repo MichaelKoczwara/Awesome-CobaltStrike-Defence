@@ -31,6 +31,9 @@ https://github.com/JPCERTCC/aa-tools/blob/master/cobaltstrikescan.py
 JARM fingerprints scanner </br>
 https://github.com/salesforce/jarm
 
+Cobalt Strike Forensic</br>
+https://github.com/RomanEmelyanov/CobaltStrikeForensic
+
 Cobalt Strike resources</br>
 https://github.com/Te-k/cobaltstrike
 
