@@ -8,7 +8,7 @@ In addition to its own capabilities, Cobalt Strike leverages the capabilities of
 Cobalt Strike MITRE TTPs </br>
 https://attack.mitre.org/software/S0154/
 
-<h2>Hunting & Detection Tools</br><h2>
+<h2>Hunting & Detection Tools</br></h2>
 
 Cobalt Strike Team Server Password Brute Forcer </br>
 https://github.com/isafe/cobaltstrike_brute
