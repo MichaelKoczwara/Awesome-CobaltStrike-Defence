@@ -8,6 +8,10 @@ In addition to its own capabilities, Cobalt Strike leverages the capabilities of
 Cobalt Strike MITRE TTPs </br>
 https://attack.mitre.org/software/S0154/
 
+Cobalt Strike MITRE ATT&CK Navigator </br>
+
+https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.mitre.org%2Fsoftware%2FS0154%2FS0154-enterprise-layer.json
+
 <h2>Hunting & Detection Tools</br></h2>
 
 Cobalt Strike Team Server Password Brute Forcer </br>
