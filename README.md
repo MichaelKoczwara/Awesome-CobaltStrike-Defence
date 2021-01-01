@@ -151,11 +151,11 @@ https://research.nccgroup.com/2020/06/15/striking-back-at-retired-cobalt-strike-
 
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
-https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1
-https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-2
-https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-3
-https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-4
-https://www.youtube.com/watch?v=DDK_hC90kR8&feature=youtu.beh
+https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1</br>
+https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-2</br>
+https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-3</br>
+https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-4</br>
+https://www.youtube.com/watch?v=DDK_hC90kR8&feature=youtu.beh</br>
 
 
 <h2>Videos</br></h2>
