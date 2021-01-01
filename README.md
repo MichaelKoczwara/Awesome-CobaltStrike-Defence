@@ -60,7 +60,7 @@ https://docs.google.com/spreadsheets/d/1bYvBh6NkNYGstfQWnT5n7cSxdhjSn1mduX8cziWS
 
 
 
-<h2>Hunting & Detection Research Articles/Blogs</br></h2>
+<h2>Hunting & Detection Research Articles</br></h2>
 
 Analysing Cobalt Strike for fun and profit</br>
 https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-profit/
