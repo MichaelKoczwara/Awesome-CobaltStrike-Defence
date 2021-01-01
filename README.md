@@ -8,7 +8,7 @@ In addition to its own capabilities, Cobalt Strike leverages the capabilities of
 Cobalt Strike MITRE TTPs </br>
 https://attack.mitre.org/software/S0154/
 
-Hunting & Detection Tools</br>
+<h2>Hunting & Detection Tools</br><h2>
 
 Cobalt Strike Team Server Password Brute Forcer </br>
 https://github.com/isafe/cobaltstrike_brute
@@ -28,16 +28,18 @@ https://github.com/JPCERTCC/aa-tools/blob/master/cobaltstrikescan.py
 JARM fingerprints scanner </br>
 https://github.com/salesforce/jarm
 
+Cobalt Strike resources</br>
+https://github.com/Te-k/cobaltstrike
 
 List of C2 JARM including Cobalt Strike</br>
 https://github.com/cedowens/C2-JARM
 
-Yara rules</br>
+<h2>Yara rules</br><h2>
 Cobalt Strike Yara</br>
 https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike.yar
 https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike_evasive.yar
 
-Indicators of compromise</br>
+<h2>Indicators of compromise</br><h2>
 
 Cobalt Strike hashes</br>
 https://bazaar.abuse.ch/browse/yara/CobaltStrike/
@@ -47,13 +49,13 @@ https://docs.google.com/spreadsheets/d/1bYvBh6NkNYGstfQWnT5n7cSxdhjSn1mduX8cziWS
 
 
 
-Hunting & Detection Research</br>
+<h2>Hunting & Detection Research</br><h2>
 Detection Cobalt Strike stomp</br>
 https://github.com/slaeryan/DetectCobaltStomp
 
-Cobalt Strike research</br>
+Analysing Cobalt Strike for fun and profit</br>
 https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-profit/
-https://github.com/Te-k/cobaltstrike
+
 
 
 
@@ -144,7 +146,7 @@ Striking Back at Retired Cobalt Strike: A look at a legacy vulnerability</br>
 https://research.nccgroup.com/2020/06/15/striking-back-at-retired-cobalt-strike-a-look-at-a-legacy-vulnerability/
 
 
-Trainings </br>
+<h2>Trainings </br><h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-2
@@ -153,7 +155,7 @@ https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-
 https://www.youtube.com/watch?v=DDK_hC90kR8&feature=youtu.beh
 
 
-Videos</br>
+<h2>Videos</br></h2>
 
 Malleable Memory Indicators with Cobalt Strike's Beacon Payload</br>
 https://www.youtube.com/watch?v=93GyP-mEUAw&feature=emb_title
