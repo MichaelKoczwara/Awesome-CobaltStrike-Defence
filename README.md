@@ -46,7 +46,6 @@ https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11
 https://github.com/Neo23x0/sigma/blob/master/rules/windows/sysmon/sysmon_cobaltstrike_process_injection.yml
 
 
-
 The art and science of detecting Cobalt Strike
 https://talos-intelligence-site.s3.amazonaws.com/production/document_files/files/000/095/031/original/Talos_Cobalt_Strike.pdf
 
