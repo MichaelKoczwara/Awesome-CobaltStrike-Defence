@@ -167,6 +167,8 @@ https://www.youtube.com/watch?v=93GyP-mEUAw&feature=emb_title
 STAR Webcast: Spooky RYUKy: The Return of UNC1878</br>
 https://www.youtube.com/watch?v=BhjQ6zsCVSc
 
+Excel 4.0 Macros Analysis - Cobalt Strike Shellcode Injection</br>
+https://www.youtube.com/watch?v=XnN_UWfHlNM
 
 
 
