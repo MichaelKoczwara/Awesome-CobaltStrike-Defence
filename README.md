@@ -1,7 +1,8 @@
 # Awesome-CobaltStrike-Defence
 <h1>Defences against Cobalt Strike</h1>
 
-
+<strong>Cobalt Strike is a commercial, full-featured, penetration testing tool which bills itself as "adversary simulation software designed to execute targeted attacks and emulate the post-exploitation actions of advanced threat actors". Cobalt Strike’s interactive post-exploit capabilities cover the full range of ATT&CK tactics, all executed within a single, integrated system.
+In addition to its own capabilities, Cobalt Strike leverages the capabilities of other well-known tools such as Metasploit and Mimikatz. <strong>
 
 
 Cobalt Strike MITRE TTPs </br>
