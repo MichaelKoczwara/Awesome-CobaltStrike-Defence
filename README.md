@@ -34,12 +34,12 @@ https://github.com/Te-k/cobaltstrike
 List of C2 JARM including Cobalt Strike</br>
 https://github.com/cedowens/C2-JARM
 
-<h2>Yara rules</br><h2>
+<h2>Yara rules</br></h2>
 Cobalt Strike Yara</br>
 https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike.yar
 https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike_evasive.yar
 
-<h2>Indicators of compromise</br><h2>
+<h2>Indicators of compromise</br></h2>
 
 Cobalt Strike hashes</br>
 https://bazaar.abuse.ch/browse/yara/CobaltStrike/
@@ -49,7 +49,7 @@ https://docs.google.com/spreadsheets/d/1bYvBh6NkNYGstfQWnT5n7cSxdhjSn1mduX8cziWS
 
 
 
-<h2>Hunting & Detection Research</br><h2>
+<h2>Hunting & Detection Research</br></h2>
 Detection Cobalt Strike stomp</br>
 https://github.com/slaeryan/DetectCobaltStomp
 
@@ -146,7 +146,7 @@ Striking Back at Retired Cobalt Strike: A look at a legacy vulnerability</br>
 https://research.nccgroup.com/2020/06/15/striking-back-at-retired-cobalt-strike-a-look-at-a-legacy-vulnerability/
 
 
-<h2>Trainings </br><h2>
+<h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-2
