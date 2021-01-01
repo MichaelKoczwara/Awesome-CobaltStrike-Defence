@@ -10,14 +10,14 @@ https://attack.mitre.org/software/S0154/
 List of Cobalt Strike servers
 https://docs.google.com/spreadsheets/d/1bYvBh6NkNYGstfQWnT5n7cSxdhjSn1mduX8cziWSGrw/edit#gid=766378683
 
-Cobalt Strike Team Server Password Brute Forcer</br>
+Cobalt Strike Team Server Password Brute Forcer </br>
 https://github.com/isafe/cobaltstrike_brute
 
 
-CobaltStrikeScan Scan files or process memory for Cobalt Strike beacons and parse their configuration</b2>
+CobaltStrikeScan Scan files or process memory for Cobalt Strike beacons and parse their configuration </b2>
 https://github.com/Apr4h/CobaltStrikeScan
 
-Cobalt Strike beacon scan</b2>
+Cobalt Strike beacon scan </b2>
 https://github.com/whickey-r7/grab_beacon_config
 
 Cobalt Strike decrypt</b2>
