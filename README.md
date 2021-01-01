@@ -40,7 +40,8 @@ https://github.com/cedowens/C2-JARM
 <h2>Yara rules</br></h2>
 Cobalt Strike Yara</br>
 https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike.yar</br>
-https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike_evasive.yar
+https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike_evasive.yar</br>
+https://github.com/Te-k/cobaltstrike/blob/master/rules.yar
 
 <h2>Indicators of compromise</br></h2>
 
