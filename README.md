@@ -8,12 +8,10 @@ In addition to its own capabilities, Cobalt Strike leverages the capabilities of
 Cobalt Strike MITRE TTPs </br>
 https://attack.mitre.org/software/S0154/
 
-List of Cobalt Strike servers
-https://docs.google.com/spreadsheets/d/1bYvBh6NkNYGstfQWnT5n7cSxdhjSn1mduX8cziWSGrw/edit#gid=766378683
+Hunting & Detection Tools</br>
 
 Cobalt Strike Team Server Password Brute Forcer </br>
 https://github.com/isafe/cobaltstrike_brute
-
 
 CobaltStrikeScan Scan files or process memory for Cobalt Strike beacons and parse their configuration </br>
 https://github.com/Apr4h/CobaltStrikeScan
@@ -24,15 +22,32 @@ https://github.com/whickey-r7/grab_beacon_config
 Cobalt Strike decrypt</br>
 https://github.com/WBGlIl/CS_Decrypt
 
+Detecting CobaltStrike for Volatility<br>
+https://github.com/JPCERTCC/aa-tools/blob/master/cobaltstrikescan.py
+
+JARM fingerprints scanner </br>
+https://github.com/salesforce/jarm
+
+
 List of C2 JARM including Cobalt Strike</br>
 https://github.com/cedowens/C2-JARM
 
-
+Yara rules</br>
 Cobalt Strike Yara</br>
 https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike.yar
 https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike_evasive.yar
 
+Indicators of compromise</br>
 
+Cobalt Strike hashes</br>
+https://bazaar.abuse.ch/browse/yara/CobaltStrike/
+
+List of Cobalt Strike servers
+https://docs.google.com/spreadsheets/d/1bYvBh6NkNYGstfQWnT5n7cSxdhjSn1mduX8cziWSGrw/edit#gid=766378683
+
+
+
+Hunting & Detection Research</br>
 Detection Cobalt Strike stomp</br>
 https://github.com/slaeryan/DetectCobaltStomp
 
@@ -41,8 +56,6 @@ https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-prof
 https://github.com/Te-k/cobaltstrike
 
 
-Cobalt Strike hashes</br>
-https://bazaar.abuse.ch/browse/yara/CobaltStrike/
 
 Cobalt Strike Remote Threads detection</br>
 https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11d0f
@@ -79,11 +92,11 @@ https://delaat.net/rp/2019-2020/p29/report.pdf
 
 Volatility Plugin for Detecting Cobalt Strike Beacon</br>
 https://blogs.jpcert.or.jp/en/2018/08/volatility-plugin-for-detecting-cobalt-strike-beacon.html
-https://github.com/JPCERTCC/aa-tools/blob/master/cobaltstrikescan.py
+
 
 Easily Identify Malicious Servers on the Internet with JARM</br>
 https://engineering.salesforce.com/easily-identify-malicious-servers-on-the-internet-with-jarm-e095edac525a
-https://github.com/salesforce/jarm
+
 
 Cobalt Strike Beacon Analysis</br>
 https://isc.sans.edu/forums/diary/Quick+Tip+Cobalt+Strike+Beacon+Analysis/26818/
@@ -131,12 +144,16 @@ Striking Back at Retired Cobalt Strike: A look at a legacy vulnerability</br>
 https://research.nccgroup.com/2020/06/15/striking-back-at-retired-cobalt-strike-a-look-at-a-legacy-vulnerability/
 
 
+Trainings </br>
 Attack detection fundamentals including also Cobalt Strike detection</br>
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-2
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-3
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-4
 https://www.youtube.com/watch?v=DDK_hC90kR8&feature=youtu.beh
+
+
+Videos</br>
 
 Malleable Memory Indicators with Cobalt Strike's Beacon Payload</br>
 https://www.youtube.com/watch?v=93GyP-mEUAw&feature=emb_title
