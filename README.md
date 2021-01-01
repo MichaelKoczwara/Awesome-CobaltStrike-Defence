@@ -34,6 +34,11 @@ https://github.com/Te-k/cobaltstrike
 Cobalt Strike hashes
 https://bazaar.abuse.ch/browse/yara/CobaltStrike/
 
+Cobalt Strike Remote Threads detection
+https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11d0f
+https://github.com/Neo23x0/sigma/blob/master/rules/windows/sysmon/sysmon_cobaltstrike_process_injection.yml
+
+
 
 The art and science of detecting Cobalt Strike
 https://talos-intelligence-site.s3.amazonaws.com/production/document_files/files/000/095/031/original/Talos_Cobalt_Strike.pdf
@@ -57,6 +62,8 @@ https://labs.sentinelone.com/the-anatomy-of-an-apt-attack-and-cobaltstrike-beaco
 CobaltStrike - beacon.dll : Your No Ordinary MZ Header
 https://tccontre.blogspot.com/2019/11/cobaltstrike-beacondll-your-not.html
 
+GitHub-hosted malware calculates Cobalt Strike payload from Imgur pic
+https://www.bleepingcomputer.com/news/security/github-hosted-malware-calculates-cobalt-strike-payload-from-imgur-pic/
 
 Detecting Cobalt Strike beacons in NetFlow data
 https://delaat.net/rp/2019-2020/p29/report.pdf
@@ -74,11 +81,6 @@ https://isc.sans.edu/forums/diary/Quick+Tip+Cobalt+Strike+Beacon+Analysis/26818/
 
 Hancitor infection with Pony, Evil Pony, Ursnif, and Cobalt Strike
 https://isc.sans.edu/forums/diary/Hancitor+infection+with+Pony+Evil+Pony+Ursnif+and+Cobalt+Strike/25532/
-
-
-
-
-
 
 
 Attackers Exploiting WebLogic Servers via CVE-2020-14882 to install Cobalt Strike
@@ -105,12 +107,23 @@ Detecting and Advancing In-Memory .NET Tradecraft
 https://www.mdsec.co.uk/2020/06/detecting-and-advancing-in-memory-net-tradecraft/
 
 
+Analysing Fileless Malware: Cobalt Strike Beacon
+https://newtonpaul.com/analysing-fileless-malware-cobalt-strike-beacon/
+CobaltStrike samples pass=infected
+https://www.dropbox.com/s/o5493msqarg3iyu/Cobalt%20Strike.7z?dl=0 
 
+IndigoDrop spreads via military-themed lures to deliver Cobalt Strike
+https://blog.talosintelligence.com/2020/06/indigodrop-maldocs-cobalt-strike.html
 
+Cobalt Group Returns To Kazakhstan
+https://research.checkpoint.com/2019/cobalt-group-returns-to-kazakhstan/
 
-
-
-
+Attack detection fundamentals including also Cobalt Strike detection
+https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1
+https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-2
+https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-3
+https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-4
+https://www.youtube.com/watch?v=DDK_hC90kR8&feature=youtu.beh
 
 Malleable Memory Indicators with Cobalt Strike's Beacon Payload
 https://www.youtube.com/watch?v=93GyP-mEUAw&feature=emb_title
