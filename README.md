@@ -1,6 +1,13 @@
 # Awsome-CobaltStrike-Defence
 Defences against Cobalt Strike
 
+
+Cobalt Strike MITRE TTPs
+https://attack.mitre.org/software/S0154/
+
+List of Cobalt Strike servers
+https://docs.google.com/spreadsheets/d/1bYvBh6NkNYGstfQWnT5n7cSxdhjSn1mduX8cziWSGrw/edit#gid=766378683
+
 Cobalt Strike Team Server Password Brute Forcer
 https://github.com/isafe/cobaltstrike_brute
 
@@ -117,6 +124,10 @@ https://blog.talosintelligence.com/2020/06/indigodrop-maldocs-cobalt-strike.html
 
 Cobalt Group Returns To Kazakhstan
 https://research.checkpoint.com/2019/cobalt-group-returns-to-kazakhstan/
+
+Striking Back at Retired Cobalt Strike: A look at a legacy vulnerability
+https://research.nccgroup.com/2020/06/15/striking-back-at-retired-cobalt-strike-a-look-at-a-legacy-vulnerability/
+
 
 Attack detection fundamentals including also Cobalt Strike detection
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1
