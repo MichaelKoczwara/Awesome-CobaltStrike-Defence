@@ -88,7 +88,7 @@ https://www.andreafortuna.org/2020/11/22/how-to-detect-cobalt-strike-activity-in
 Detecting Cobalt Strike by Fingerprinting Imageload Events</br>
 https://redhead0ntherun.medium.com/detecting-cobalt-strike-by-fingerprinting-imageload-events-6c932185d67c
 
-The Anatomy of an APT Attack and CobaltStrike Beacon’s Encoded Configuration</b2>
+The Anatomy of an APT Attack and CobaltStrike Beacon’s Encoded Configuration </br>
 https://labs.sentinelone.com/the-anatomy-of-an-apt-attack-and-cobaltstrike-beacons-encoded-configuration/
 
 CobaltStrike - beacon.dll : Your No Ordinary MZ Header</br>
