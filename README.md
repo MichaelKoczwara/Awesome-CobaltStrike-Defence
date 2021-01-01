@@ -141,7 +141,7 @@ https://www.mdsec.co.uk/2020/06/detecting-and-advancing-in-memory-net-tradecraft
 
 Analysing Fileless Malware: Cobalt Strike Beacon</br>
 https://newtonpaul.com/analysing-fileless-malware-cobalt-strike-beacon/
-CobaltStrike samples pass=infected
+CobaltStrike samples pass=infected</br>
 https://www.dropbox.com/s/o5493msqarg3iyu/Cobalt%20Strike.7z?dl=0 
 
 IndigoDrop spreads via military-themed lures to deliver Cobalt Strike</br>
