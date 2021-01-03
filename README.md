@@ -159,6 +159,9 @@ https://research.nccgroup.com/2020/06/15/striking-back-at-retired-cobalt-strike-
 Azure Sentinel Quick-Deploy with Cyb3rWard0g’s Sentinel To-Go – Let’s Catch Cobalt Strike! </br>
 https://www.blackhillsinfosec.com/azure-sentinel-quick-deploy-with-cyb3rward0gs-sentinel-to-go-lets-catch-cobalt-strike/
 
+Cobalt Strike stagers used by FIN6</br>
+https://malwarelab.eu/posts/fin6-cobalt-strike/
+
 
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
