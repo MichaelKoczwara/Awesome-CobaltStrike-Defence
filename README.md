@@ -40,6 +40,9 @@ https://github.com/Te-k/cobaltstrike
 List of C2 JARM including Cobalt Strike</br>
 https://github.com/cedowens/C2-JARM
 
+SilasCutler_JARM_Scan_CobaltStrike_Beacon_Config.json </br>
+https://pastebin.com/DzsPgH9w
+
 
 Detection Cobalt Strike stomp</br>
 https://github.com/slaeryan/DetectCobaltStomp
@@ -152,6 +155,9 @@ https://research.checkpoint.com/2019/cobalt-group-returns-to-kazakhstan/
 
 Striking Back at Retired Cobalt Strike: A look at a legacy vulnerability</br>
 https://research.nccgroup.com/2020/06/15/striking-back-at-retired-cobalt-strike-a-look-at-a-legacy-vulnerability/
+
+Azure Sentinel Quick-Deploy with Cyb3rWard0g’s Sentinel To-Go – Let’s Catch Cobalt Strike! </br>
+https://www.blackhillsinfosec.com/azure-sentinel-quick-deploy-with-cyb3rward0gs-sentinel-to-go-lets-catch-cobalt-strike/
 
 
 <h2>Trainings </br></h2>
