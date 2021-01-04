@@ -162,6 +162,11 @@ https://www.blackhillsinfosec.com/azure-sentinel-quick-deploy-with-cyb3rward0gs-
 Cobalt Strike stagers used by FIN6</br>
 https://malwarelab.eu/posts/fin6-cobalt-strike/
 
+Malleable C2 Profiles and You</br>
+https://haggis-m.medium.com/malleable-c2-profiles-and-you-7c7ab43e7929
+
+https://gist.github.com/MHaggis/bdcd0e6d5c727e5b297a3e69e6c52286
+
 
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
