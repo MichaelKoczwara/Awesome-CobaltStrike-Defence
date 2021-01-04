@@ -164,7 +164,7 @@ https://malwarelab.eu/posts/fin6-cobalt-strike/
 
 Malleable C2 Profiles and You</br>
 https://haggis-m.medium.com/malleable-c2-profiles-and-you-7c7ab43e7929
-
+List of spawns from exposed Cobalt Strike C2</br>
 https://gist.github.com/MHaggis/bdcd0e6d5c727e5b297a3e69e6c52286
 
 
