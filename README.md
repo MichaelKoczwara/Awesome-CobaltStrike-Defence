@@ -167,6 +167,8 @@ https://haggis-m.medium.com/malleable-c2-profiles-and-you-7c7ab43e7929</br>
 List of spawns from exposed Cobalt Strike C2</br>
 https://gist.github.com/MHaggis/bdcd0e6d5c727e5b297a3e69e6c52286
 
+C2 Traffic patterns including Cobalt Strike</br>
+https://marcoramilli.com/2021/01/09/c2-traffic-patterns-personal-notes/
 
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
