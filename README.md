@@ -180,6 +180,12 @@ https://gist.github.com/MHaggis/bdcd0e6d5c727e5b297a3e69e6c52286
 C2 Traffic patterns including Cobalt Strike</br>
 https://marcoramilli.com/2021/01/09/c2-traffic-patterns-personal-notes/
 
+CobaltStrike Threat Hunting via named Pipes</br>
+
+https://pastebin.com/dys8hUA1
+https://www.linkedin.com/feed/update/urn:li:activity:6763777992985518081/
+
+
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1</br>
