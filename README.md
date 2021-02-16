@@ -183,6 +183,7 @@ https://marcoramilli.com/2021/01/09/c2-traffic-patterns-personal-notes/
 CobaltStrike Threat Hunting via named Pipes</br>
 
 https://pastebin.com/dys8hUA1
+
 https://www.linkedin.com/feed/update/urn:li:activity:6763777992985518081/
 
 
