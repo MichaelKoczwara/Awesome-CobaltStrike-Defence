@@ -62,6 +62,9 @@ https://bazaar.abuse.ch/browse/tag/CobaltStrike/
 
 https://bazaar.abuse.ch/browse/tag/CobaltStrike%20beacon%20implant%20Zoom%20Meetings/
 
+https://tria.ge/s?q=family%3Acobaltstrike
+
+
 List of Cobalt Strike servers
 https://docs.google.com/spreadsheets/d/1bYvBh6NkNYGstfQWnT5n7cSxdhjSn1mduX8cziWSGrw/edit#gid=766378683
 
