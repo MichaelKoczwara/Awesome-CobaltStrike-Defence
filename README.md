@@ -189,6 +189,10 @@ https://pastebin.com/dys8hUA1
 
 https://www.linkedin.com/feed/update/urn:li:activity:6763777992985518081/
 
+Hunting for GetSystem in offensive security tools</br>
+
+https://redcanary.com/blog/getsystem-offsec/
+
 
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
