@@ -65,7 +65,6 @@ https://bazaar.abuse.ch/browse/tag/CobaltStrike%20beacon%20implant%20Zoom%20Meet
 https://tria.ge/s?q=family%3Acobaltstrike
 
 Possible Cobalt Strike Stager IOCs</br>
-
 https://pastebin.com/54zE6cSj
 
 
@@ -77,7 +76,6 @@ Cobalt Strike Trevor Profiles</br>
 https://pastebin.com/yB6RJ63F
 
 https://pastebin.com/7QnLN5u0
-
 
 
 <h2>Hunting & Detection Research Articles</br></h2>
@@ -188,11 +186,9 @@ C2 Traffic patterns including Cobalt Strike</br>
 https://marcoramilli.com/2021/01/09/c2-traffic-patterns-personal-notes/
 
 CobaltStrike Threat Hunting via named Pipes</br>
-
 https://www.linkedin.com/feed/update/urn:li:activity:6763777992985518081/
 
 Hunting for GetSystem in offensive security tools</br>
-
 https://redcanary.com/blog/getsystem-offsec/
 
 malleable_c2_profiles</br>
