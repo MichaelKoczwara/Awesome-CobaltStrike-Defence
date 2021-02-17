@@ -64,6 +64,8 @@ https://bazaar.abuse.ch/browse/tag/CobaltStrike%20beacon%20implant%20Zoom%20Meet
 
 https://tria.ge/s?q=family%3Acobaltstrike
 
+Possible Cobalt Strike Stager IOCs</br>
+
 https://pastebin.com/54zE6cSj
 
 
