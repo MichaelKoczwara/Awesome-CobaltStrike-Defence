@@ -189,14 +189,20 @@ https://marcoramilli.com/2021/01/09/c2-traffic-patterns-personal-notes/
 
 CobaltStrike Threat Hunting via named Pipes</br>
 
-https://pastebin.com/dys8hUA1
-
 https://www.linkedin.com/feed/update/urn:li:activity:6763777992985518081/
 
 Hunting for GetSystem in offensive security tools</br>
 
 https://redcanary.com/blog/getsystem-offsec/
 
+malleable_c2_profiles</br>
+https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752
+
+pipes</br>
+https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752#gistcomment-3624664
+
+spawnto</br>
+https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752#gistcomment-3624663
 
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
