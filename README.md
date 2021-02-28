@@ -71,6 +71,8 @@ https://pastebin.com/54zE6cSj
 List of Cobalt Strike servers
 https://docs.google.com/spreadsheets/d/1bYvBh6NkNYGstfQWnT5n7cSxdhjSn1mduX8cziWSGrw/edit#gid=766378683
 
+Additional Cobalt Strike ioc's</br>
+https://pastebin.com/u/cobaltstrikemonitor
 
 Cobalt Strike Trevor Profiles</br>
 https://pastebin.com/yB6RJ63F
