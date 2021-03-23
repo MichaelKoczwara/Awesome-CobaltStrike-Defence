@@ -226,6 +226,9 @@ https://www.youtube.com/watch?v=XnN_UWfHlNM
 Profiling And Detecting All Things SSL With JA3<br>
 https://www.youtube.com/watch?v=oprPu7UIEuk
 
+Hunting beacons by Bartosz Jerzman (x33fcon conf)<br>
+https://www.youtube.com/watch?v=QrSTnVlOIIA
+
 
 
 
