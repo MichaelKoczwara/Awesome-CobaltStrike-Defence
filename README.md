@@ -196,6 +196,9 @@ https://redcanary.com/blog/getsystem-offsec/
 Hunting and Detecting Cobalt Strike</br>
 https://www.sekoia.io/en/hunting-and-detecting-cobalt-strike/
 
+Detecting Cobalt Strike with memory signatures</br>
+https://www.elastic.co/blog/detecting-cobalt-strike-with-memory-signatures
+
 malleable_c2_profiles</br>
 https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752
 
