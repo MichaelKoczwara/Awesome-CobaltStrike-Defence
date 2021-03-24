@@ -193,6 +193,9 @@ https://www.linkedin.com/feed/update/urn:li:activity:6763777992985518081/
 Hunting for GetSystem in offensive security tools</br>
 https://redcanary.com/blog/getsystem-offsec/
 
+Hunting and Detecting Cobalt Strike</br>
+https://www.sekoia.io/en/hunting-and-detecting-cobalt-strike/
+
 malleable_c2_profiles</br>
 https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752
 
