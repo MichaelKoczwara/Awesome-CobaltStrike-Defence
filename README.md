@@ -54,7 +54,7 @@ https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike_evas
 https://github.com/Te-k/cobaltstrike/blob/master/rules.yar
 
 <h2>Sigma rules</br></h2>
-https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_meterpreter_or_cobaltstrike_getsystem_service_start.yml
+https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_meterpreter_or_cobaltstrike_getsystem_service_start.yml</br>
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/sysmon/sysmon_cobaltstrike_process_injection.yml
 
 <h2>Indicators of compromise</br></h2>
