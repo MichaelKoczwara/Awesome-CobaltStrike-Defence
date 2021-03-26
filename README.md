@@ -86,6 +86,8 @@ https://pastebin.com/yB6RJ63F
 
 https://pastebin.com/7QnLN5u0
 
+Cobalt Strike & Metasploit servers</br>
+https://pastebin.com/WPsVKYTf
 
 <h2>Hunting & Detection Research Articles</br></h2>
 
