@@ -89,6 +89,8 @@ https://pastebin.com/7QnLN5u0
 Cobalt Strike & Metasploit servers</br>
 https://pastebin.com/WPsVKYTf
 
+https://gist.github.com/MichaelKoczwara/3a0037ad46c373bc71a6e22daf69d70e<br>
+
 <h2>Hunting & Detection Research Articles</br></h2>
 
 Analysing Cobalt Strike for fun and profit</br>
