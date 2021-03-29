@@ -47,9 +47,9 @@ https://pastebin.com/DzsPgH9w
 Detection Cobalt Strike stomp</br>
 https://github.com/slaeryan/DetectCobaltStomp
 
+
 ThreatHunting Jupyter Notebooks - Notes on Detecting Cobalt Strike Activity</br>
 https://github.com/BinaryDefense/ThreatHuntingJupyterNotebooks/blob/main/Cobalt-Strike-detection-notes.md
-
 
 <h2>Yara rules</br></h2>
 Cobalt Strike Yara</br>
@@ -101,16 +101,12 @@ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 Analysing Cobalt Strike for fun and profit</br>
 https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-profit/
 
-
-
 Cobalt Strike Remote Threads detection</br>
 https://medium.com/@olafhartong/cobalt-strike-remote-threads-detection-206372d11d0f
 https://github.com/Neo23x0/sigma/blob/master/rules/windows/sysmon/sysmon_cobaltstrike_process_injection.yml
 
-
 The art and science of detecting Cobalt Strike</br>
 https://talos-intelligence-site.s3.amazonaws.com/production/document_files/files/000/095/031/original/Talos_Cobalt_Strike.pdf
-
 
 Detecting Cobalt Strike Default Modules via Named Pipe Analysis</br>
 https://labs.f-secure.com/blog/detecting-cobalt-strike-default-modules-via-named-pipe-analysis/
@@ -139,10 +135,8 @@ https://delaat.net/rp/2019-2020/p29/report.pdf
 Volatility Plugin for Detecting Cobalt Strike Beacon</br>
 https://blogs.jpcert.or.jp/en/2018/08/volatility-plugin-for-detecting-cobalt-strike-beacon.html
 
-
 Easily Identify Malicious Servers on the Internet with JARM</br>
 https://engineering.salesforce.com/easily-identify-malicious-servers-on-the-internet-with-jarm-e095edac525a
-
 
 Cobalt Strike Beacon Analysis</br>
 https://isc.sans.edu/forums/diary/Quick+Tip+Cobalt+Strike+Beacon+Analysis/26818/
@@ -150,30 +144,23 @@ https://isc.sans.edu/forums/diary/Quick+Tip+Cobalt+Strike+Beacon+Analysis/26818/
 Hancitor infection with Pony, Evil Pony, Ursnif, and Cobalt Strike</br>
 https://isc.sans.edu/forums/diary/Hancitor+infection+with+Pony+Evil+Pony+Ursnif+and+Cobalt+Strike/25532/
 
-
 Attackers Exploiting WebLogic Servers via CVE-2020-14882 to install Cobalt Strike</br>
 https://isc.sans.edu/forums/diary/Attackers+Exploiting+WebLogic+Servers+via+CVE202014882+to+install+Cobalt+Strike/26752/
-
 
 Hiding in the Cloud: Cobalt Strike Beacon C2 using Amazon APIs</br>
 https://rhinosecuritylabs.com/aws/hiding-cloudcobalt-strike-beacon-c2-using-amazon-apis/
 
-
 Identifying Cobalt Strike team servers in the wild</br>
 https://blog.fox-it.com/2019/02/26/identifying-cobalt-strike-team-servers-in-the-wild/
-
 
 Multi-stage APT attack drops Cobalt Strike using Malleable C2 feature</br>
 https://blog.malwarebytes.com/threat-analysis/2020/06/multi-stage-apt-attack-drops-cobalt-strike-using-malleable-c2-feature/
 
-
 Operation Cobalt Kitty</br>
 http://cdn2.hubspot.net/hubfs/3354902/Cybereason%20Labs%20Analysis%20Operation%20Cobalt%20Kitty.pdf
 
-
 Detecting and Advancing In-Memory .NET Tradecraft</br>
 https://www.mdsec.co.uk/2020/06/detecting-and-advancing-in-memory-net-tradecraft/
-
 
 Analysing Fileless Malware: Cobalt Strike Beacon</br>
 https://newtonpaul.com/analysing-fileless-malware-cobalt-strike-beacon/ </br>
@@ -214,6 +201,9 @@ https://www.sekoia.io/en/hunting-and-detecting-cobalt-strike/
 
 Detecting Cobalt Strike with memory signatures</br>
 https://www.elastic.co/blog/detecting-cobalt-strike-with-memory-signatures
+
+How to detect CobaltStrike Command & Control communication</br>
+https://underdefense.com/how-to-detect-cobaltstrike-command-control-communication/
 
 malleable_c2_profiles</br>
 https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752
