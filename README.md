@@ -47,6 +47,10 @@ https://pastebin.com/DzsPgH9w
 Detection Cobalt Strike stomp</br>
 https://github.com/slaeryan/DetectCobaltStomp
 
+ThreatHunting Jupyter Notebooks - Notes on Detecting Cobalt Strike Activity</br>
+https://github.com/BinaryDefense/ThreatHuntingJupyterNotebooks/blob/main/Cobalt-Strike-detection-notes.md
+
+
 <h2>Yara rules</br></h2>
 Cobalt Strike Yara</br>
 https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike.yar</br>
