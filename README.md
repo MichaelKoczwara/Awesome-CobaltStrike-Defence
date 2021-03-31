@@ -205,6 +205,9 @@ https://www.elastic.co/blog/detecting-cobalt-strike-with-memory-signatures
 How to detect CobaltStrike Command & Control communication</br>
 https://underdefense.com/how-to-detect-cobaltstrike-command-control-communication/
 
+Red Canary Threat Detection Report 2021 - Cobalt Strike</br>
+https://redcanary.com/threat-detection-report/threats/cobalt-strike/
+
 malleable_c2_profiles</br>
 https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752
 
