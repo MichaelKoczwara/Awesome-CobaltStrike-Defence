@@ -51,6 +51,9 @@ https://github.com/slaeryan/DetectCobaltStomp
 ThreatHunting Jupyter Notebooks - Notes on Detecting Cobalt Strike Activity</br>
 https://github.com/BinaryDefense/ThreatHuntingJupyterNotebooks/blob/main/Cobalt-Strike-detection-notes.md
 
+Random C2 Profile Generator</br>
+https://github.com/threatexpress/random_c2_profile
+
 <h2>Yara rules</br></h2>
 Cobalt Strike Yara</br>
 https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike.yar</br>
@@ -207,6 +210,11 @@ https://underdefense.com/how-to-detect-cobaltstrike-command-control-communicatio
 
 Red Canary Threat Detection Report 2021 - Cobalt Strike</br>
 https://redcanary.com/threat-detection-report/threats/cobalt-strike/
+
+
+Detecting Exposed Cobalt Strike DNS Redirectors</br>
+https://labs.f-secure.com/blog/detecting-exposed-cobalt-strike-dns-redirectors/
+
 
 malleable_c2_profiles</br>
 https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752
