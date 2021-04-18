@@ -215,6 +215,8 @@ https://redcanary.com/threat-detection-report/threats/cobalt-strike/
 Detecting Exposed Cobalt Strike DNS Redirectors</br>
 https://labs.f-secure.com/blog/detecting-exposed-cobalt-strike-dns-redirectors/
 
+Decoding Cobalt Strike Traffic</br>
+https://isc.sans.edu/diary/27322
 
 malleable_c2_profiles</br>
 https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752
