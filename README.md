@@ -254,6 +254,9 @@ https://www.youtube.com/watch?v=oprPu7UIEuk
 Hunting beacons by Bartosz Jerzman (x33fcon conf)<br>
 https://www.youtube.com/watch?v=QrSTnVlOIIA
 
+Striking Back: Hunting Cobalt Strike Using Sysmon And Sentinel by Randy Pargman<br>
+https://vimeo.com/517161342
+
 
 
 
