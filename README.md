@@ -13,6 +13,9 @@ https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.
 
 <h2>Hunting & Detection Tools</br></h2>
 
+Beacon Hunter</br>
+https://github.com/3lp4tr0n/BeaconHunter
+
 Cobalt Strike Team Server Password Brute Forcer </br>
 https://github.com/isafe/cobaltstrike_brute
 
