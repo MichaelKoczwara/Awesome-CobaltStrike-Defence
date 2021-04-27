@@ -218,6 +218,9 @@ https://labs.f-secure.com/blog/detecting-exposed-cobalt-strike-dns-redirectors/
 Decoding Cobalt Strike Traffic</br>
 https://isc.sans.edu/diary/27322
 
+Anatomy of Cobalt Strike’s DLL Stager</br>
+https://blog.nviso.eu/2021/04/26/anatomy-of-cobalt-strike-dll-stagers/
+
 malleable_c2_profiles</br>
 https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752
 
