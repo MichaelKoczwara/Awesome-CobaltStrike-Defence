@@ -233,10 +233,10 @@ https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752#gistcomment-362
 spawnto</br>
 https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752#gistcomment-3624663
 
-Enterprise Scale Threat Hunting: C2 Beacon Detection with Unsupervised ML and KQL<br>
-Part 1<br>
+Enterprise Scale Threat Hunting: C2 Beacon Detection with Unsupervised ML and KQL</br>
+Part 1</br>
 https://mergene.medium.com/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-machine-learning-and-277c4c30304f
-Part 2<br>
+Part 2</br>
 https://mergene.medium.com/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-ml-and-kql-part-2-bff46cfc1e7e
 
 Detecting network beacons via KQL using simple spread stats functions<br>
