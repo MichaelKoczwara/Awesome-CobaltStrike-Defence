@@ -233,6 +233,15 @@ https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752#gistcomment-362
 spawnto</br>
 https://gist.github.com/MHaggis/6c600e524045a6d49c35291a21e10752#gistcomment-3624663
 
+Enterprise Scale Threat Hunting: C2 Beacon Detection with Unsupervised ML and KQL</br>
+Part 1</br>
+https://mergene.medium.com/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-machine-learning-and-277c4c30304f<br>
+Part 2</br>
+https://mergene.medium.com/enterprise-scale-threat-hunting-network-beacon-detection-with-unsupervised-ml-and-kql-part-2-bff46cfc1e7e
+
+Detecting network beacons via KQL using simple spread stats functions<br>
+https://ateixei.medium.com/detecting-network-beacons-via-kql-using-simple-spread-stats-functions-c2f031b0736b
+
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1</br>
@@ -261,7 +270,10 @@ Hunting beacons by Bartosz Jerzman (x33fcon conf)<br>
 https://www.youtube.com/watch?v=QrSTnVlOIIA
 
 Striking Back: Hunting Cobalt Strike Using Sysmon And Sentinel by Randy Pargman<br>
-https://vimeo.com/517161342
+https://www.binarydefense.com/striking-back-hunting-cobalt-strike-using-sysmon-and-sentinel-thank-you/?submissionGuid=5719f087-bfa5-4261-8b77-34541d8736d6
+
+Making Sense Of Encrypted Cobalt Strike Traffic<br>
+https://isc.sans.edu/diary/27448
 
 
 
