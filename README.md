@@ -67,7 +67,7 @@ https://github.com/Te-k/cobaltstrike/blob/master/rules.yar
 Cobalt Strike sigma rules</br>
 Sigma is a generic and open signature format that allows you to describe relevant log events in a straightforward manner.</br>
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_meterpreter_or_cobaltstrike_getsystem_service_start.yml</br>
-https://github.com/SigmaHQ/sigma/blob/master/rules/windows/sysmon/sysmon_cobaltstrike_process_injection.yml</br>
+https://github.com/SigmaHQ/sigma/blob/master/rules/windows/create_remote_thread/sysmon_cobaltstrike_process_injection.yml</br>
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/pipe_created/sysmon_mal_cobaltstrike.yml</br>
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_susp_procs_req_dlls.yml</br>
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/builtin/win_cobaltstrike_service_installs.yml</br>
