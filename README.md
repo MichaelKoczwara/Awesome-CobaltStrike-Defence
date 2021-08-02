@@ -245,6 +245,15 @@ https://mergene.medium.com/enterprise-scale-threat-hunting-network-beacon-detect
 Detecting network beacons via KQL using simple spread stats functions<br>
 https://ateixei.medium.com/detecting-network-beacons-via-kql-using-simple-spread-stats-functions-c2f031b0736b
 
+Cobalt Strike Hunting — simple PCAP and Beacon Analysis</br>
+https://michaelkoczwara.medium.com/cobalt-strike-hunting-simple-pcap-and-beacon-analysis-f51c36ce6811
+
+Guide to Named Pipes and Hunting for Cobalt Strike Pipes</br>
+https://svch0st.medium.com/guide-to-named-pipes-and-hunting-for-cobalt-strike-pipes-dc46b2c5f575
+
+Detecting C&C Malleable Profiles</br>
+https://community.rsa.com/t5/netwitness-blog/detecting-c-amp-c-malleable-profiles/ba-p/607072
+
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1</br>
