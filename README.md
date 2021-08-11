@@ -13,6 +13,9 @@ https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.
 
 <h2>Hunting & Detection Tools</br></h2>
 
+BeaconEye</br>
+https://github.com/CCob/BeaconEye
+
 Beacon Hunter</br>
 https://github.com/3lp4tr0n/BeaconHunter
 
