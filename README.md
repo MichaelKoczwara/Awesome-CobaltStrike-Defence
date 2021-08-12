@@ -19,6 +19,9 @@ https://github.com/CCob/BeaconEye
 Beacon Hunter</br>
 https://github.com/3lp4tr0n/BeaconHunter
 
+Cobalt Spam</br>
+https://github.com/hariomenkel/CobaltSpam
+
 Cobalt Strike Team Server Password Brute Forcer </br>
 https://github.com/isafe/cobaltstrike_brute
 
