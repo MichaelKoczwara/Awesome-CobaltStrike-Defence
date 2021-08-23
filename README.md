@@ -293,7 +293,7 @@ https://www.binarydefense.com/striking-back-hunting-cobalt-strike-using-sysmon-a
 Making Sense Of Encrypted Cobalt Strike Traffic<br>
 https://isc.sans.edu/diary/27448
 
-Hunting Cobalt Strike</br>
+Cobalt Strike Threat Hunting | SANS DFIR Summit 2021 | Chad Tilbury</br>
 https://www.youtube.com/watch?v=borfuQGrB8g
 
 
