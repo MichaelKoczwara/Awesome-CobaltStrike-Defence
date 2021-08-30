@@ -245,6 +245,9 @@ https://mergene.medium.com/enterprise-scale-threat-hunting-network-beacon-detect
 Detecting network beacons via KQL using simple spread stats functions<br>
 https://ateixei.medium.com/detecting-network-beacons-via-kql-using-simple-spread-stats-functions-c2f031b0736b
 
+Cobalt Strike and Tradecraft
+https://hausec.com/2021/07/26/cobalt-strike-and-tradecraft/
+
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1</br>
