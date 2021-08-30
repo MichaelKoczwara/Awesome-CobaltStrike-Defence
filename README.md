@@ -113,6 +113,9 @@ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 
 <h2>Hunting & Detection Research Articles</br></h2>
 
+Cobalt Strike, a Defender’s Guide</br>
+https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/
+
 Analysing Cobalt Strike for fun and profit</br>
 https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-profit/
 
