@@ -113,6 +113,12 @@ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 
 <h2>Hunting & Detection Research Articles</br></h2>
 
+Cobalt Strike Hunting – Key items to look for<br>
+https://www.vanimpe.eu/2021/09/12/cobalt-strike-hunting-key-items-to-look-for/
+
+Identify malicious servers / Cobalt Strike servers with JARM</br>
+https://www.vanimpe.eu/2021/09/14/identify-malicious-servers-cobalt-strike-servers-with-jarm/
+
 Full-Spectrum Cobalt Strike Detection</br>
 https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
 
