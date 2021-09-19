@@ -138,7 +138,7 @@ https://talos-intelligence-site.s3.amazonaws.com/production/document_files/files
 Detecting Cobalt Strike Default Modules via Named Pipe Analysis</br>
 https://labs.f-secure.com/blog/detecting-cobalt-strike-default-modules-via-named-pipe-analysis/
 
-A Multi-Method Approach to Identifying Rogue Cobalt Strike Servers</b2>
+A Multi-Method Approach to Identifying Rogue Cobalt Strike Servers</br>
 https://go.recordedfuture.com/hubfs/reports/cta-2019-0618.pdf
 
 How to detect Cobalt Strike activities in memory forensics</br>
