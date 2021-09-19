@@ -113,6 +113,9 @@ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 
 <h2>Hunting & Detection Research Articles</br></h2>
 
+Full-Spectrum Cobalt Strike Detection</br>
+https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
+
 Cobalt Strike, a Defender’s Guide</br>
 https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/
 
