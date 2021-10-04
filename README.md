@@ -113,6 +113,9 @@ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 
 <h2>Hunting & Detection Research Articles</br></h2>
 
+CobaltStrike Beacon Config Parsing with CyberChef — Malware Mondays #2</br>
+https://medium.com/@whickey000/cobaltstrike-beacon-config-parsing-with-cyberchef-malware-mondays-2-86d759b9a031
+
 Cobalt Strike Hunting – Key items to look for<br>
 https://www.vanimpe.eu/2021/09/12/cobalt-strike-hunting-key-items-to-look-for/
 
