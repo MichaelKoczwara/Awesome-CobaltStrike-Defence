@@ -275,6 +275,10 @@ https://svch0st.medium.com/guide-to-named-pipes-and-hunting-for-cobalt-strike-pi
 Detecting C&C Malleable Profiles</br>
 https://community.rsa.com/t5/netwitness-blog/detecting-c-amp-c-malleable-profiles/ba-p/607072
 
+FIN12: The Prolific Ransomware Intrusion Threat Actor That Has Aggressively Pursued Healthcare Targets</br>
+The report itself is not about Cobalt Strike, but FIN12 makes heavy use of the CS. We have a whole section about it in the report: "Cobalt Strike / BEACON TTPs"</br>
+https://www.mandiant.com/media/12596/download
+
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1</br>
@@ -310,14 +314,3 @@ https://isc.sans.edu/diary/27448
 
 Cobalt Strike Threat Hunting | SANS DFIR Summit 2021 | Chad Tilbury</br>
 https://www.youtube.com/watch?v=borfuQGrB8g
-
-
-
-
-
-
-
-
-
-
-
