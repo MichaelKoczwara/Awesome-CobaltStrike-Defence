@@ -78,8 +78,17 @@ Sigma is a generic and open signature format that allows you to describe relevan
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_meterpreter_or_cobaltstrike_getsystem_service_start.yml</br>
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/create_remote_thread/sysmon_cobaltstrike_process_injection.yml</br>
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/pipe_created/sysmon_mal_cobaltstrike.yml</br>
-https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_susp_procs_req_dlls.yml</br>
+https://github.com/SigmaHQ/sigma/blob/master/rules/windows/pipe_created/sysmon_mal_cobaltstrike_re.yml</br>
+https://github.com/SigmaHQ/sigma/blob/master/rules/windows/pipe_created/sysmon_susp_cobaltstrike_pipe_patterns.yml</br>
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/builtin/win_cobaltstrike_service_installs.yml</br>
+https://github.com/SigmaHQ/sigma/blob/master/rules/windows/registry_event/sysmon_cobaltstrike_service_installs.yml</br>
+https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_access/sysmon_cobaltstrike_bof_injection_pattern.yml</br>
+https://github.com/SigmaHQ/sigma/blob/master/rules/network/net_mal_dns_cobaltstrike.yml</br>
+https://github.com/SigmaHQ/sigma/blob/master/rules/network/zeek/zeek_default_cobalt_strike_certificate.yml</br>
+https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_access/sysmon_direct_syscall_ntopenprocess.yml</br>
+https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/process_creation_cobaltstrike_load_by_rundll32.yml</br>
+https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_susp_rundll32_no_params.yml</br>
+https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_cobaltstrike_process_patterns.yml</br>
 (check in the future for updates or new rules)
 
 <h2>Indicators of compromise</br></h2>
