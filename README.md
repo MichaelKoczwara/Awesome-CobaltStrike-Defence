@@ -86,8 +86,6 @@ https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_access/sysmon
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/process_creation_cobaltstrike_load_by_rundll32.yml</br>
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_susp_rundll32_no_params.yml</br>
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_cobaltstrike_process_patterns.yml</br>
-
-
 (check in the future for updates or new rules)
 
 <h2>Indicators of compromise</br></h2>
