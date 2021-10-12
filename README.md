@@ -291,6 +291,9 @@ FIN12: The Prolific Ransomware Intrusion Threat Actor That Has Aggressively Purs
 The report itself is not about Cobalt Strike, but FIN12 makes heavy use of the CS. We have a whole section about it in the report: "Cobalt Strike / BEACON TTPs"</br>
 https://www.mandiant.com/media/12596/download
 
+Defining Cobalt Strike Components So You Can BEA-CONfident in Your Analysis</br>
+https://www.mandiant.com/resources/defining-cobalt-strike-components
+
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1</br>
