@@ -125,6 +125,10 @@ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 
 <h2>Hunting & Detection Research Articles</br></h2>
 
+
+Detecting Conti Cobalt Strike Lateral Movement Techniques Part 1</br>
+https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-1
+
 CobaltStrike Beacon Config Parsing with CyberChef — Malware Mondays #2</br>
 https://medium.com/@whickey000/cobaltstrike-beacon-config-parsing-with-cyberchef-malware-mondays-2-86d759b9a031
 
