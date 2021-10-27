@@ -298,6 +298,10 @@ https://www.mandiant.com/media/12596/download
 Defining Cobalt Strike Components So You Can BEA-CONfident in Your Analysis</br>
 https://www.mandiant.com/resources/defining-cobalt-strike-components
 
+Cobalt Strike: Using Known Private Keys To Decrypt Traffic</br>
+https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/ (part 1)
+https://blog.nviso.eu/2021/10/27/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-2/ (part 2)
+
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1</br>
