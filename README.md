@@ -310,6 +310,8 @@ https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-4</br>
 https://www.youtube.com/watch?v=DDK_hC90kR8&feature=youtu.beh</br>
 
+Cobalt Strike Detection via Log Analysis Workshop
+https://www.sans.org/webcasts/tech-tuesday-workshop-cobalt-strike-detection-log-analysis-119395/
 
 <h2>Videos</br></h2>
 
