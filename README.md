@@ -339,3 +339,6 @@ https://isc.sans.edu/diary/27448
 
 Cobalt Strike Threat Hunting | SANS DFIR Summit 2021 | Chad Tilbury</br>
 https://www.youtube.com/watch?v=borfuQGrB8g
+
+SiegeCast "COBALT STRIKE BASICS" with Tim Medin and Joe Vest</br>
+https://www.youtube.com/watch?v=OtM6iegGYAQ
