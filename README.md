@@ -348,3 +348,6 @@ https://www.youtube.com/watch?v=borfuQGrB8g
 
 SiegeCast "COBALT STRIKE BASICS" with Tim Medin and Joe Vest</br>
 https://www.youtube.com/watch?v=OtM6iegGYAQ
+
+Decrypting Cobalt Strike Traffic With Keys Extracted From Process Memory by Didier Stevens</br>
+https://isc.sans.edu/diary/28008
