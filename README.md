@@ -66,6 +66,9 @@ https://github.com/BinaryDefense/ThreatHuntingJupyterNotebooks/blob/main/Cobalt-
 Random C2 Profile Generator</br>
 https://github.com/threatexpress/random_c2_profile
 
+Python parser for CobaltStrike Beacon's configuration</br>
+https://github.com/Sentinel-One/CobaltStrikeParser
+
 <h2>Yara rules</br></h2>
 Cobalt Strike Yara</br>
 https://github.com/Neo23x0/signature-base/blob/master/yara/apt_cobaltstrike.yar</br>
@@ -302,6 +305,9 @@ Cobalt Strike: Using Known Private Keys To Decrypt Traffic</br>
 https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/ (part 1)
 https://blog.nviso.eu/2021/10/27/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-2/ (part 2)
 
+Decrypting Cobalt Strike Traffic With Keys Extracted From Process Memory</br>
+https://isc.sans.edu/diary/28006
+
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1</br>
@@ -342,3 +348,6 @@ https://www.youtube.com/watch?v=borfuQGrB8g
 
 SiegeCast "COBALT STRIKE BASICS" with Tim Medin and Joe Vest</br>
 https://www.youtube.com/watch?v=OtM6iegGYAQ
+
+Decrypting Cobalt Strike Traffic With Keys Extracted From Process Memory by Didier Stevens</br>
+https://isc.sans.edu/diary/28008
