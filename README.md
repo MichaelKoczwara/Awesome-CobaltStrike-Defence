@@ -59,6 +59,8 @@ https://pastebin.com/DzsPgH9w
 Detection Cobalt Strike stomp</br>
 https://github.com/slaeryan/DetectCobaltStomp
 
+Cobalt Strike Built-In Lateral Movement Capabilities Based On CONTI Leak Mind Map
+https://github.com/AndrewRathbun/DFIRMindMaps/tree/main/OSArtifacts/Windows/Cobalt%20Strike%20Lateral%20Movement%20Artifact%20-%20Based%20on%20CONTI%20Leak
 
 ThreatHunting Jupyter Notebooks - Notes on Detecting Cobalt Strike Activity</br>
 https://github.com/BinaryDefense/ThreatHuntingJupyterNotebooks/blob/main/Cobalt-Strike-detection-notes.md
@@ -146,6 +148,12 @@ https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
 
 Cobalt Strike, a Defender’s Guide</br>
 https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/
+
+BazarCall to Conti Ransomware via Trickbot and Cobalt Strike</br>
+https://thedfirreport.com/2021/08/01/bazarcall-to-conti-ransomware-via-trickbot-and-cobalt-strike/
+
+Cobalt Strike and Tradecraft</br>
+https://hausec.com/2021/07/26/cobalt-strike-and-tradecraft/
 
 Analysing Cobalt Strike for fun and profit</br>
 https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-profit/
