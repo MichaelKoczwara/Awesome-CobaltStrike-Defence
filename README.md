@@ -316,6 +316,9 @@ https://blog.nviso.eu/2021/10/27/cobalt-strike-using-known-private-keys-to-decry
 Decrypting Cobalt Strike Traffic With Keys Extracted From Process Memory</br>
 https://isc.sans.edu/diary/28006
 
+Finding Beacons in the Dark: A Guide to Cyber Threat Intelligence</br> 
+https://www.blackberry.com/us/en/pdfviewer?file=/content/dam/blackberry-com/asset/enterprise/pdf/direct/sneak-peek-ch1-2-finding-beacons-in-the-dark.pdf
+
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1</br>
@@ -359,3 +362,6 @@ https://www.youtube.com/watch?v=OtM6iegGYAQ
 
 Decrypting Cobalt Strike Traffic With Keys Extracted From Process Memory by Didier Stevens</br>
 https://isc.sans.edu/diary/28008
+
+Mining The Shadows with ZoidbergStrike: A Scanner for Cobalt Strike</br>
+https://www.youtube.com/watch?v=MWr6bvrrYHQ
