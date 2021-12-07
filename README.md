@@ -94,6 +94,7 @@ https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_access/sysmon
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/process_creation_cobaltstrike_load_by_rundll32.yml</br>
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_susp_rundll32_no_params.yml</br>
 https://github.com/SigmaHQ/sigma/blob/master/rules/windows/process_creation/win_cobaltstrike_process_patterns.yml</br>
+https://github.com/SigmaHQ/sigma/blob/master/rules/windows/file_event/sysmon_susp_clr_logs.yml</br>
 (check in the future for updates or new rules)
 
 <h2>Indicators of compromise</br></h2>
@@ -312,6 +313,15 @@ https://www.mandiant.com/resources/defining-cobalt-strike-components
 Cobalt Strike: Using Known Private Keys To Decrypt Traffic</br>
 https://blog.nviso.eu/2021/10/21/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-1/ (part 1)
 https://blog.nviso.eu/2021/10/27/cobalt-strike-using-known-private-keys-to-decrypt-traffic-part-2/ (part 2)
+
+Cobalt Strike: Using Process Memory To Decrypt Traffic</br>
+https://blog.nviso.eu/2021/11/03/cobalt-strike-using-process-memory-to-decrypt-traffic-part-3/
+
+Cobalt Strike: Decrypting Obfuscated Traffic</br>
+https://blog.nviso.eu/2021/11/17/cobalt-strike-decrypting-obfuscated-traffic-part-4/
+
+Cobalt Strike: Decrypting DNS Traffic</br>
+https://blog.nviso.eu/2021/11/29/cobalt-strike-decrypting-dns-traffic-part-5/
 
 Decrypting Cobalt Strike Traffic With Keys Extracted From Process Memory</br>
 https://isc.sans.edu/diary/28006
