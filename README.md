@@ -131,6 +131,8 @@ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 
 <h2>Hunting & Detection Research Articles</br></h2>
 
+Cobalt Strike as a Threat to Healthcare from U.S. Department of Health & Human Services - Health Sector Cybersecurity Coordination Center (HC3)</br>
+https://www.hhs.gov/sites/default/files/cobalt-strike-tlpwhite.pdf
 
 Detecting Conti Cobalt Strike Lateral Movement Techniques Part 1</br>
 https://www.unh4ck.com/detection-engineering-and-threat-hunting/lateral-movement/detecting-conti-cobaltstrike-lateral-movement-techniques-part-1
