@@ -13,6 +13,9 @@ https://mitre-attack.github.io/attack-navigator//#layerURL=https%3A%2F%2Fattack.
 
 <h2>Hunting & Detection Tools</br></h2>
 
+Hunt-Sleeping-Beacons</br>
+https://github.com/thefLink/Hunt-Sleeping-Beacons
+
 Pointer - Cobalt Strike Hunting</br>
 https://github.com/shabarkin/pointer
 
