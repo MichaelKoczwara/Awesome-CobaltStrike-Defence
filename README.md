@@ -150,6 +150,9 @@ https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
 Cobalt Strike, a Defender’s Guide</br>
 https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/
 
+Cobalt Strike, a Defender’s Guide – Part 2</br>
+https://thedfirreport.com/2022/01/24/cobalt-strike-a-defenders-guide-part-2/
+
 BazarCall to Conti Ransomware via Trickbot and Cobalt Strike</br>
 https://thedfirreport.com/2021/08/01/bazarcall-to-conti-ransomware-via-trickbot-and-cobalt-strike/
 
