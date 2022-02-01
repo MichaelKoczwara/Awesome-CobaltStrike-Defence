@@ -340,6 +340,12 @@ https://isc.sans.edu/diary/28006
 Finding Beacons in the Dark: A Guide to Cyber Threat Intelligence</br> 
 https://www.blackberry.com/us/en/pdfviewer?file=/content/dam/blackberry-com/asset/enterprise/pdf/direct/sneak-peek-ch1-2-finding-beacons-in-the-dark.pdf
 
+Collecting Cobalt Strike Beacons with the Elastic Stack</br>
+https://elastic.github.io/security-research/intelligence/2022/01/02.collecting-cobalt-strike-beacons/article/
+
+Extracting Cobalt Strike Beacon Configurations</br>
+https://elastic.github.io/security-research/intelligence/2022/01/03.extracting-cobalt-strike-beacon/article/
+
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
 https://labs.f-secure.com/blog/attack-detection-fundamentals-initial-access-lab-1</br>
