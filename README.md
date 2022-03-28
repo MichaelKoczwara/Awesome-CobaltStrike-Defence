@@ -134,6 +134,13 @@ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 
 <h2>Hunting & Detection Research Articles</br></h2>
 
+Mining data from Cobalt Strike beacons</br>
+Report</br>
+https://research.nccgroup.com/2022/03/25/mining-data-from-cobalt-strike-beacons/
+
+Data</br>
+https://github.com/fox-it/cobaltstrike-beacon-data
+
 Cobalt Strike as a Threat to Healthcare from U.S. Department of Health & Human Services - Health Sector Cybersecurity Coordination Center (HC3)</br>
 https://www.hhs.gov/sites/default/files/cobalt-strike-tlpwhite.pdf
 
