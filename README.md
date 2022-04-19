@@ -134,6 +134,9 @@ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 
 <h2>Hunting & Detection Research Articles</br></h2>
 
+Extracting Cobalt Strike from Windows Error Reporting</br>
+https://bmcder.com/blog/extracting-cobalt-strike-from-windows-error-reporting
+
 Mining data from Cobalt Strike beacons</br>
 Report</br>
 https://research.nccgroup.com/2022/03/25/mining-data-from-cobalt-strike-beacons/
