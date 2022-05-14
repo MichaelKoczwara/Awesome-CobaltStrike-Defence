@@ -134,6 +134,16 @@ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 
 <h2>Hunting & Detection Research Articles</br></h2>
 
+Extracting Cobalt Strike from Windows Error Reporting</br>
+https://bmcder.com/blog/extracting-cobalt-strike-from-windows-error-reporting
+
+Mining data from Cobalt Strike beacons</br>
+Report</br>
+https://research.nccgroup.com/2022/03/25/mining-data-from-cobalt-strike-beacons/
+
+Data</br>
+https://github.com/fox-it/cobaltstrike-beacon-data
+
 Cobalt Strike as a Threat to Healthcare from U.S. Department of Health & Human Services - Health Sector Cybersecurity Coordination Center (HC3)</br>
 https://www.hhs.gov/sites/default/files/cobalt-strike-tlpwhite.pdf
 
@@ -339,6 +349,12 @@ https://isc.sans.edu/diary/28006
 
 Finding Beacons in the Dark: A Guide to Cyber Threat Intelligence</br> 
 https://www.blackberry.com/us/en/pdfviewer?file=/content/dam/blackberry-com/asset/enterprise/pdf/direct/sneak-peek-ch1-2-finding-beacons-in-the-dark.pdf
+
+Collecting Cobalt Strike Beacons with the Elastic Stack</br>
+https://elastic.github.io/security-research/intelligence/2022/01/02.collecting-cobalt-strike-beacons/article/
+
+Extracting Cobalt Strike Beacon Configurations</br>
+https://elastic.github.io/security-research/intelligence/2022/01/03.extracting-cobalt-strike-beacon/article/
 
 <h2>Trainings </br></h2>
 Attack detection fundamentals including also Cobalt Strike detection</br>
