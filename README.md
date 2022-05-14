@@ -134,6 +134,9 @@ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 
 <h2>Hunting & Detection Research Articles</br></h2>
 
+Hunting Cobalt Strike Servers</br>
+https://bank-security.medium.com/hunting-cobalt-strike-servers-385c5bedda7b
+
 Extracting Cobalt Strike from Windows Error Reporting</br>
 https://bmcder.com/blog/extracting-cobalt-strike-from-windows-error-reporting
 
