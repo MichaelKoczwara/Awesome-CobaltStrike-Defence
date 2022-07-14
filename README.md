@@ -134,6 +134,16 @@ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 
 <h2>Hunting & Detection Research Articles</br></h2>
 
+Cobalt Strike Metadata Encoding and Decoding</br>
+https://unit42.paloaltonetworks.com/cobalt-strike-metadata-encoding-decoding/
+
+Cobalt Strike Metadata Encryption and Decryption</br>
+https://unit42.paloaltonetworks.com/cobalt-strike-metadata-encryption-decryption/
+
+Cobalt Strike Malleable C2 Profile</br>
+https://unit42.paloaltonetworks.com/cobalt-strike-malleable-c2-profile/
+
+
 Hunting Cobalt Strike Servers</br>
 https://bank-security.medium.com/hunting-cobalt-strike-servers-385c5bedda7b
 
